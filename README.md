@@ -124,7 +124,7 @@ In this project, I will create a data pipeline for collecting Vietnam stock list
     |:--:|
     | <b>[Spark Connection](https://github.com/cordon-thiago/airflow-spark)</b>|
 
-    If you can go there, you have successfully setup Airflow. Now you can run all the tasks except *dbt_analysis_daily* (I will instruct you to run this in the next section).
+    If you can go there, you have successfully setup Airflow. Now you can run all the tasks.
 
 
 
