@@ -1,0 +1,16 @@
+*.csv
+spark/import_data.py
+spark/streaming_data.py
+dbt
+config
+/airflow/logs/*
+
+.env
+data
+data-streaming
+*.csv
+*.txt
+__pycache__
+test
+design.txt
+stocks.csv
